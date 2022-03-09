@@ -1,3 +1,15 @@
-# iris_classification
-Machine Learning model that will allow us to classify species of iris flowers. 
-This application will introduce many rudimentary features and concepts of Machine Learning. Essentially the Hello World of Machine Learning.
+# Iris Flower Classification
+Iris flower classification is a very popular machine learning project.
+
+The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, and each class contains 4 features, ‘Sepal length’, ‘Sepal width’, ‘Petal length’, ‘Petal width’.
+
+The aim of the iris flower classification is to predict flowers based on their specific features.
+
+## Required Packages
+Numpy
+
+Sklearn
+
+Matplotlib
+
+Tensorflow
